@@ -22,5 +22,13 @@ How to obtain reddit API:
 4. Name can be whatever you like 
 5. Description can be whatever you like
 6. Redirect URL (http://localhost:8080) is a simple one to use
-7. Then click create app
+7. Then click create app.
 Once your app is created you will see ***personal use script*** which is the client id that needs to be replaced in the script (main.py) ***secret*** is the client secret in the script and ***user agent*** is the name of the app. 
+
+***Requirements***
+1. Python 3.x: The script is written in Python, so you'll need a Python interpreter installed on your system. You can download Python from the official website: python.org.
+2. PRAW (Python Reddit API Wrapper): PRAW is a Python package that provides a convenient way to interact with the Reddit API. You can install it using pip, the Python package installer. Run the following command in your terminal or command prompt: ```pip install praw``` This will install the latest version of PRAW along with its dependencies.
+
+***How to execute***
+Open terminal or comand prompt 
+run ```python main.py```
