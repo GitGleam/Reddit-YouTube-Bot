@@ -30,5 +30,5 @@ Once your app is created you will see ***personal use script*** which is the cli
 2. PRAW (Python Reddit API Wrapper): PRAW is a Python package that provides a convenient way to interact with the Reddit API. You can install it using pip, the Python package installer. Run the following command in your terminal or command prompt: ```pip install praw``` This will install the latest version of PRAW along with its dependencies.
 
 ***How to execute***
-Open terminal or comand prompt 
-run ```python main.py```
+Open terminal or comand prompt and move to path with ```cd PATH_OF_THE_SCRIPT_MAIN.PY```
+Tthen run the command ```python main.py```
